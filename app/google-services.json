@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "650347254462",
+    "firebase_url": "https://cinemamanagerkotlin-default-rtdb.firebaseio.com",
+    "project_id": "cinemamanagerkotlin",
+    "storage_bucket": "cinemamanagerkotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650347254462:android:7285710375b8b65381c4ef",
+        "android_client_info": {
+          "package_name": "com.example.cinema"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv-dAyFssKZ8yBiDG2QDvp1QZH9pdN-yA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
